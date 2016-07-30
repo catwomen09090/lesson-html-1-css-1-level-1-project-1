@@ -3,7 +3,7 @@
 ### Skills for this project (please check off the skills as they are mastered by the student):
 
 **HTML**
- 1. [ ] html tags
+ 1. [x] html tags
  2. [ ] head tags
  3. [ ] body tags
  4. [ ] h & p tags
