@@ -4,21 +4,21 @@
 
 **HTML**
  1. [x] html tags
- 2. [ ] head tags
- 3. [ ] body tags
- 4. [ ] h & p tags
- 5. [ ] indentation
+ 2. [x] head tags
+ 3. [x] body tags
+ 4. [x] h & p tags
+ 5. [x] indentation
 
 **CSS**
-  1. [ ] bg color
+  1. [x] bg color
   2. [ ] text align
   3. [ ] font color
   4. [ ] font size
   5. [ ] px
 
 **Dev Tools**
-  1. [ ] code editors & IDEs
-  2. [ ] github part 1
+  1. [x] code editors & IDEs
+  2. [x] github part 1
   3. [ ] google
 
 ### Project details
