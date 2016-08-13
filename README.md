@@ -11,15 +11,15 @@
 
 **CSS**
   1. [x] bg color
-  2. [ ] text align
+  2. [x] text align
   3. [ ] font color
-  4. [ ] font size
-  5. [ ] px
+  4. [x] font size
+  5. [x] px
 
 **Dev Tools**
   1. [x] code editors & IDEs
   2. [x] github part 1
-  3. [ ] google
+  3.  [x]google
 
 ### Project details
   1. Project name: 
